@@ -1,0 +1,1 @@
+O projeto adicionado se trata de um sistema de ONG para animais
